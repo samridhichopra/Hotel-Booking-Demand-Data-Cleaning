@@ -12,6 +12,7 @@
 This is a data cleaning project, the objective is to detect, correct or remove inaccurate records from hotel booking dataset to insure data quality before further analysis. The dataset has 119390 observations and 32 variables.
 
 ## Screenshots
+![Screenshot 1](Downlaods/Cl.png)
 ![Screenshot 1](./Cl.PNG)
 ![Screenshot 2](./Cl1.PNG)
 ![Screenshot 3](./Cl2.PNG)
